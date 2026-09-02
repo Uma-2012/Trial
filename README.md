@@ -35,7 +35,8 @@ During training, the model learns normal spatio-temporal patterns using only nor
 ---
 
 ## 🎥 Key Idea
-
+<p align="center">
+```text
 
 Previous Frame        Current Frame         Next Frame
     I(t-k)                 I(t)                I(t+k)
@@ -64,7 +65,7 @@ Previous Frame        Current Frame         Next Frame
                          │
                          ▼
                    Anomaly Score
-
+```
 
 This repository implements an Unsupervised Video Anomaly Detection system. The  model utilizes a Masked Autoencoder (MAE) architecture with a Convolutional  Vision Transformer (CvT) backbone.
 
