@@ -1,4 +1,4 @@
-# 🚀 TC-MAE
+# TC-MAE
 ## Unsupervised Video Anomaly Detection using Lightweight Temporal Context Masked Autoencoder
 
 <p align="center">
@@ -65,7 +65,8 @@ Previous Frame        Current Frame         Next Frame
           Motion-Saliency Weighted Error
                          │
                          ▼
-                   Anomaly Score# TC-MAE: Unsupervised Video Anomaly Detection using Lightweight Temporal Context Masked Autoencoder
+                   Anomaly Score
+# TC-MAE: Unsupervised Video Anomaly Detection using Lightweight Temporal Context Masked Autoencoder
 
 This repository implements an Unsupervised Video Anomaly Detection system. The  model utilizes a Masked Autoencoder (MAE) architecture with a Convolutional  Vision Transformer (CvT) backbone.
 
