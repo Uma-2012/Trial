@@ -35,6 +35,7 @@ During training, the model learns normal spatio-temporal patterns using only nor
 ---
 
 ## 🎥 Key Idea
+
 <p align="center">
 ```text
 
