@@ -36,8 +36,6 @@ During training, the model learns normal spatio-temporal patterns using only nor
 
 ## 🎥 Key Idea
 
-<p align="center">
-
 
 Previous Frame        Current Frame         Next Frame
     I(t-k)                 I(t)                I(t+k)
